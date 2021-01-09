@@ -40,7 +40,7 @@ if oneEditInsert("Vivek","Vivek"):
     print("True")
 else:
     print("False")
-    
+      
 if OneEditReplace("Male","Jale"):
     print("True")
 else:
