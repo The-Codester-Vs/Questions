@@ -1,6 +1,6 @@
 
-# ! Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
-# ! cannot use additional data structures?
+#  Is Unique: Implement an algorithm to determine if a string has all unique characters. What if you
+#  cannot use additional data structures?
 
 def unique_character(string):
     if len(string) > 128:
@@ -22,3 +22,4 @@ if unique_character(string):
     print("This string have a unique character!")
 else:
     print("This string does not have a unique character!")
+    
